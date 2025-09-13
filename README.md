@@ -6,12 +6,19 @@ SECURE MESSENGER DEMO.
 A simple project that shows how to keep messages safe using encryption. It was built as a demo for OPERATION TRINETRA 2025.
 
 WHAT IT DOES?
+MULTI-LAYER ENCRYPTION for better protection.
 
 It lets you type a secret message.
 Encrypts the message using AES-256.
 Secures the encryption key with RSA-2048.
 Checks message integrity with SHA-256.
 Decrypts the message back safely.
+
+ENCRYPTION ALGORITHM:
+
+AES-256: Advanced encryption standard (Symmetric encryption).
+RSA-2048 (Asymmetric encryption).
+SHA-256: Secure hash algorithm (To verify integrity).
 
 HOW TO RUN - BASIC IMPLEMENTATION USING PYTHON.
 
